@@ -1,5 +1,5 @@
 # JoshStern Personal
-
+My personal public homebrew tap. Some projects I want to make publically available may turn up here.
 ## How do I install these formulae?
 `brew install joshstern/personal/<formula>`
 
